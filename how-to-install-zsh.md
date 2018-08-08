@@ -1,7 +1,7 @@
 ## How to install zsh on ubuntu  
 
 - - - -   
-Reference: (Getting oh-my-zsh to work in Ubuntu )[https://gist.github.com/tsabat/1498393]  
+Reference: [Getting oh-my-zsh to work in Ubuntu](https://gist.github.com/tsabat/1498393)  
 
 - - - -  
 1. Install zsh  
